@@ -113,3 +113,186 @@ This build is optimized for **high-speed farming** in **Torment 16** and **Great
 - **Main Power Spike** ➝ **Ambo’s Pride + Lamentation + 6pc Wastes**.
 
 Would you like **a step-by-step Paragon Point guide** or **video references for gameplay style**? 😊🔥
+
+
+
+### **Optimal Stat Priorities for Echoing Fury + Ambo’s Pride Setup (Whirlwind Rend Barbarian)**  
+This setup is designed for **Greater Rift pushing (100+)**, focusing on **maximum Rend & Whirlwind DPS**, while maintaining enough **Cooldown Reduction (CDR) and survivability**.
+
+---
+
+## **1. Weapons: Echoing Fury + Ambo’s Pride**
+### **✅ Echoing Fury (1-Hand Mighty Weapon)**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Damage Range** | **High Base DPS (3000+ if Ancient)** | Increases raw damage |
+| 🥈 **Strength** | High STR for more damage |
+| 🥉 **Cooldown Reduction (CDR) 8%** | Reduces Wrath of the Berserker downtime |
+| 🎯 **Area Damage 24%** | Increases Rend explosion damage |
+| 🏅 **Life per Hit (Optional)** | Good for sustain in high GRs |
+
+💡 **Best Reroll Option:** If it doesn’t have **CDR or Area Damage**, replace a weak stat.
+
+---
+
+### **✅ Ambo’s Pride (1-Hand Mighty Weapon)**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Damage Range** | **High Base DPS (3000+ if Ancient)** | Increases Whirlwind & Rend damage |
+| 🥈 **Strength** | Core damage boost |
+| 🥉 **Cooldown Reduction (CDR) 8%** | More uptime on WOTB |
+| 🎯 **Area Damage 24%** | Boosts Rend AoE burst |
+| 🏅 **Attack Speed (Optional)** | Only useful for Whirlwind speed |
+
+💡 **Best Reroll Option:** If missing **CDR or Area Damage**, reroll for it.
+
+---
+
+## **2. Helm: Helm of the Wastes**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Strength** | Core damage stat |
+| 🥈 **Critical Hit Chance 6%** | More Whirlwind crits |
+| 🥉 **Whirlwind Damage 15%** | Big boost to DPS |
+| 🎯 **Socket** | **Diamond for CDR** (Best for GR pushing) |
+
+💡 **Best Reroll Option:**  
+- If missing **CHC or Whirlwind Damage**, reroll for it.
+
+---
+
+## **3. Shoulders: Pauldrons of the Wastes**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Strength** | More damage |
+| 🥈 **Vitality OR All Resist** | Survivability |
+| 🥉 **Area Damage 20%** | Big AoE boost |
+| 🎯 **Cooldown Reduction (CDR) 8%** | Helps with WOTB uptime |
+
+💡 **Best Reroll Option:**  
+- **If missing CDR**, reroll a defensive stat into it.
+
+---
+
+## **4. Chest: Cuirass of the Wastes**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Strength** | More damage |
+| 🥈 **Vitality** | Extra survivability |
+| 🥉 **Rend Damage 15%** | Huge Rend DPS boost |
+| 🎯 **Sockets** | **3x Diamonds (All Resist) or Rubies (STR)** |
+
+💡 **Best Reroll Option:**  
+- If no **Rend Damage**, reroll a weaker stat for it.
+
+---
+
+## **5. Gloves: Gauntlets of the Wastes**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Strength** | More DPS |
+| 🥈 **Critical Hit Chance (CHC) 10%** | More consistent crits |
+| 🥉 **Critical Hit Damage (CHD) 50%** | More burst damage |
+| 🎯 **Cooldown Reduction (CDR) 8%** | Helps keep WOTB up |
+
+💡 **Best Reroll Option:**  
+- **If no CDR, reroll a weaker stat into CDR**.
+
+---
+
+## **6. Pants: Tassets of the Wastes**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Strength** | Core damage stat |
+| 🥈 **Vitality** | More HP |
+| 🥉 **All Resist** | More survivability |
+| 🎯 **Sockets** | **2 Diamonds (All Resist) or Rubies (STR)** |
+
+💡 **Best Reroll Option:**  
+- **If no All Resist, reroll Vitality**.
+
+---
+
+## **7. Boots: Sabaton of the Wastes**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Strength** | Core damage stat |
+| 🥈 **Vitality** | More HP |
+| 🥉 **Whirlwind Damage 15%** | Direct boost to DPS |
+| 🎯 **All Resist** | More survivability |
+
+💡 **Best Reroll Option:**  
+- If no **Whirlwind Damage**, reroll a weaker stat.
+
+---
+
+## **8. Belt: Lamentation**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Strength** | More DPS |
+| 🥈 **Vitality** | Extra survivability |
+| 🥉 **Rend Damage 15%** | Huge Rend DPS boost |
+| 🎯 **All Resist** | Extra survivability |
+
+💡 **Best Reroll Option:**  
+- **Ensure Rend Damage is on it!**
+
+---
+
+## **9. Bracers: Mortick’s Brace**
+| **Priority** | **Stat** | **Why?** |
+|-------------|---------|----------|
+| 🥇 **Strength** | More DPS |
+| 🥈 **Critical Hit Chance 6%** | More crits |
+| 🥉 **Physical Damage 20%** | Boosts Rend & WW damage |
+| 🎯 **Vitality OR All Resist** | Survivability |
+
+💡 **Best Reroll Option:**  
+- **Always keep Physical Damage%**.
+
+---
+
+## **10. Rings**
+### **✅ Convention of Elements (COE)**
+| **Priority** | **Stat** |
+|-------------|----------|
+| 🥇 **Critical Hit Chance (CHC) 6%** |
+| 🥈 **Critical Hit Damage (CHD) 50%** |
+| 🥉 **Cooldown Reduction (CDR) 8%** |
+| 🎯 **Strength** |
+
+---
+
+### **✅ Obsidian Ring of the Zodiac**
+| **Priority** | **Stat** |
+|-------------|----------|
+| 🥇 **Critical Hit Chance (CHC) 6%** |
+| 🥈 **Cooldown Reduction (CDR) 8%** |
+| 🥉 **Strength** |
+| 🎯 **Resource Cost Reduction (Optional)** |
+
+---
+
+## **11. Amulet: Squirt’s Necklace OR Hellfire Amulet**
+| **Priority** | **Stat** |
+|-------------|----------|
+| 🥇 **Physical Damage 20%** |
+| 🥈 **Critical Hit Chance 10%** |
+| 🥉 **Critical Hit Damage 100%** |
+| 🎯 **Socket (For Legendary Gems)** |
+
+---
+
+## **12. Stat Breakpoints to Aim For**
+| **Stat** | **Target Value** | **Why?** |
+|---------|---------------|----------|
+| **Critical Hit Chance (CHC)** | **50-60%** | More consistent crits |
+| **Critical Hit Damage (CHD)** | **500-600%+** | Big Rend burst |
+| **Cooldown Reduction (CDR)** | **45-50%** | Perma-WOTB uptime |
+| **Area Damage** | **80%+** | Stronger AoE |
+| **Physical Damage Bonus** | **40%+** (Bracers & Amulet) | Boosts Rend |
+| **Rend Damage Bonus** | **30% (Chest & Belt)** | Massive Rend DPS |
+
+---
+
+🔥 **Would you like a reroll priority for your current items or an optimization checklist?** 😊
