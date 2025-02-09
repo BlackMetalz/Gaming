@@ -85,3 +85,50 @@ Since Followers **DO NOT benefit from most Legendary Gems**, you only need 1:
 | **Legendary Gem** | **Esoteric Alteration (Toughness Boost)** |
 
 🔥 **Would you like an optimized Greater Rift Farming Route Guide or a Wrath of the Berserker Cooldown Management Guide?** 😊
+
+---
+
+### **Do Legendary Gems Affect Followers in Diablo 3?**  
+
+🔹 **Short Answer:** **Most Legendary Gems DO NOT work on Followers.**  
+However, some **specific utility-based gems** **do work** and **benefit your character** when equipped on your Follower.
+
+---
+
+## **1. Which Legendary Gems Work on Followers?**  
+
+| **Legendary Gem** | **Effect on Follower?** | **Why?** |
+|------------------|----------------------|----------|
+| **Esoteric Alteration** | ✅ **Works** | Makes your Follower tankier (Survivability Boost) |
+| **Mutilation Guard** | ✅ **Works** | Provides massive melee damage reduction for your Follower |
+| **Invigorating Gemstone** | ✅ **Works** | Prevents your Follower from being CC’d (useful for Enchantress) |
+| **Legacy of Dreams (LoD)** | ❌ **Does NOT work** | Only affects the player |
+| **Bane of the Trapped** | ❌ **Does NOT work** | Followers do not trigger the effect |
+| **Bane of the Stricken** | ❌ **Does NOT work** | Followers do not benefit from stacking mechanics |
+| **Bane of the Powerful** | ❌ **Does NOT work** | The buff does not transfer to the player |
+| **Taeguk** | ❌ **Does NOT work** | Only works on the player's channeling abilities |
+| **Enforcer** | ❌ **Does NOT work** | Does NOT apply to Followers (only Player’s pets) |
+
+---
+
+## **2. Best Legendary Gem for Followers?**
+Since **Follower damage is irrelevant**, the best gems are **for survivability**:
+
+✅ **Best Gem for All Followers** → **Esoteric Alteration**  
+- Reduces **elemental damage taken** by the Follower  
+- Makes them more **tankier in high Greater Rifts**  
+
+✅ **Best Gem for High GR Pushing** → **Mutilation Guard**  
+- **Reduces melee damage taken** (super useful if enemies focus your Follower)  
+
+✅ **Best Gem for Enchantress** → **Invigorating Gemstone**  
+- Makes her immune to **stuns, freezes, and crowd control**  
+
+---
+
+## **3. Final Summary: What Works & What Doesn’t?**
+✅ **Survivability gems (Esoteric, Mutilation Guard, Invigorating Gemstone) WORK on Followers.**  
+❌ **Damage-based gems (Bane of the Trapped, Stricken, Powerful) DO NOT work.**  
+❌ **Legacy of Dreams (LoD) & Enforcer DO NOT work on Followers.**  
+
+🔥 **Would you like a full Hardcore Follower survival guide or more optimization tips?** 😊
