@@ -88,47 +88,36 @@ Since Followers **DO NOT benefit from most Legendary Gems**, you only need 1:
 
 ---
 
-### **Do Legendary Gems Affect Followers in Diablo 3?**  
+Apologies for any confusion in my earlier responses. You're correct; with the **Patch 2.7.0 update**, the Follower system in *Diablo III* underwent significant changes. Followers now have access to **14 equipment slots**, mirroring the player's gear slots, plus an additional slot for a Follower-specific item. This update also introduced the **Emanate** mechanic, allowing certain Legendary and Set item effects equipped on Followers to benefit the player.
 
-🔹 **Short Answer:** **Most Legendary Gems DO NOT work on Followers.**  
-However, some **specific utility-based gems** **do work** and **benefit your character** when equipped on your Follower.
+**Follower Equipment Slots:**
 
----
+1. Head
+2. Shoulders
+3. Neck (Amulet)
+4. Torso (Chest Armor)
+5. Wrists (Bracers)
+6. Hands (Gloves)
+7. Waist (Belt)
+8. Legs (Pants)
+9. Feet (Boots)
+10. Left Finger (Ring 1)
+11. Right Finger (Ring 2)
+12. Main-Hand (Weapon)
+13. Off-Hand (Shield or Off-Hand Item)
+14. Follower Relic (Specific to each Follower)
 
-## **1. Which Legendary Gems Work on Followers?**  
+**Emanate Mechanic:**
 
-| **Legendary Gem** | **Effect on Follower?** | **Why?** |
-|------------------|----------------------|----------|
-| **Esoteric Alteration** | ✅ **Works** | Makes your Follower tankier (Survivability Boost) |
-| **Mutilation Guard** | ✅ **Works** | Provides massive melee damage reduction for your Follower |
-| **Invigorating Gemstone** | ✅ **Works** | Prevents your Follower from being CC’d (useful for Enchantress) |
-| **Legacy of Dreams (LoD)** | ❌ **Does NOT work** | Only affects the player |
-| **Bane of the Trapped** | ❌ **Does NOT work** | Followers do not trigger the effect |
-| **Bane of the Stricken** | ❌ **Does NOT work** | Followers do not benefit from stacking mechanics |
-| **Bane of the Powerful** | ❌ **Does NOT work** | The buff does not transfer to the player |
-| **Taeguk** | ❌ **Does NOT work** | Only works on the player's channeling abilities |
-| **Enforcer** | ❌ **Does NOT work** | Does NOT apply to Followers (only Player’s pets) |
+The **Emanate** feature allows specific Legendary and Set item effects equipped on Followers to apply to the player. This enhances the player's capabilities without occupying their own gear slots. Not all items have Emanate effects, but notable ones include:
 
----
+- **Broken Crown (Head):** When a gem drops, a gem of the type socketed in your helmet also drops.
+- **Nemesis Bracers (Wrists):** Shrines and Pylons spawn an enemy champion.
+- **The Flavor of Time (Amulet):** Pylon effects last twice as long.
+- **Ring of Royal Grandeur (Ring):** Reduces the number of items needed for set bonuses by one (to a minimum of 2).
+- **Sage's Journey Set (3-piece set bonus):** Increases Death's Breath drops.
+- **Cain's Destiny Set (3-piece set bonus):** Increases Greater Rift Keystone drops.
 
-## **2. Best Legendary Gem for Followers?**
-Since **Follower damage is irrelevant**, the best gems are **for survivability**:
+For a comprehensive list of items with Emanate effects and detailed Follower mechanics, you can refer to the [Follower Skills and Gearing Guide on Icy Veins](https://www.icy-veins.com/d3/follower-skills-and-gearing-guide).
 
-✅ **Best Gem for All Followers** → **Esoteric Alteration**  
-- Reduces **elemental damage taken** by the Follower  
-- Makes them more **tankier in high Greater Rifts**  
-
-✅ **Best Gem for High GR Pushing** → **Mutilation Guard**  
-- **Reduces melee damage taken** (super useful if enemies focus your Follower)  
-
-✅ **Best Gem for Enchantress** → **Invigorating Gemstone**  
-- Makes her immune to **stuns, freezes, and crowd control**  
-
----
-
-## **3. Final Summary: What Works & What Doesn’t?**
-✅ **Survivability gems (Esoteric, Mutilation Guard, Invigorating Gemstone) WORK on Followers.**  
-❌ **Damage-based gems (Bane of the Trapped, Stricken, Powerful) DO NOT work.**  
-❌ **Legacy of Dreams (LoD) & Enforcer DO NOT work on Followers.**  
-
-🔥 **Would you like a full Hardcore Follower survival guide or more optimization tips?** 😊
+By strategically equipping your Follower with items that have Emanate effects, you can significantly boost your farming efficiency and overall gameplay experience. 
